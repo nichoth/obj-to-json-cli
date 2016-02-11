@@ -6,7 +6,7 @@ Convert plain JS objects into JSON on the command line. Uses `eval`, so only use
 
 Adds a `tojson` command.
 
-    $ npm install obj-to-json-cli
+    $ npm install -g obj-to-json-cli
 
 
 ## example

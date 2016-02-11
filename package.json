@@ -1,0 +1,33 @@
+{
+  "name": "obj-to-json-cli",
+  "version": "0.0.0",
+  "description": "Turn plain JS object into JSON on the command line",
+  "main": "index.js",
+  "bin": { "tojson": "index.js" },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nichoth/obj-to-json-cli.git"
+  },
+  "keywords": [
+    "json",
+    "format",
+    "pretty",
+    "javascript",
+    "object",
+    "to json",
+    "cli",
+    "command"
+  ],
+  "author": "Nick Thomas <nichoth@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nichoth/obj-to-json-cli/issues"
+  },
+  "homepage": "https://github.com/nichoth/obj-to-json-cli#readme",
+  "dependencies": {
+    "concat-stream": "^1.5.1"
+  }
+}

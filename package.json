@@ -1,6 +1,6 @@
 {
   "name": "obj-to-json-cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Turn plain JS object into JSON on the command line",
   "main": "index.js",
   "bin": {

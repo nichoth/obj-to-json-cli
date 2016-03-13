@@ -1,0 +1,4 @@
+{
+  example: 'foo',
+  bar: 'baz',
+}

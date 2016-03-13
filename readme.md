@@ -11,4 +11,19 @@ Adds a `tojson` command.
 
 ## example
 
-    $ cat object.js | tojson > object.json
+object.js:
+```js
+{
+  example: 'foo',
+  bar: 'baz',
+}
+```
+
+    $ cat object.js | tojson
+
+    {
+        "example": "foo",
+          "bar": "baz"
+    }
+
+
